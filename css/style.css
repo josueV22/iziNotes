@@ -1,4 +1,17 @@
 body {
-  
   font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fila{
+  display: flex;
+}
+
+.col-6{
+  width: 50%;
+  height: 500px;
 }
